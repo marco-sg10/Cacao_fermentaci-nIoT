@@ -255,13 +255,10 @@ pio device monitor
   - DallasTemperature
   - ArduinoIoTCloud
 
-## Versión
-
-v1.1 - Modo Portátil Corregido - 2025
 
 ## Autores y Colaboradores
 
-Cooperativa de Cacao - Tocache, San Martín - Perú
+Marco Sabino (desarrollador) y la Cooperativa de Cacao - Tocache, San Martín - Perú
 
 ## Licencia
 
